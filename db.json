@@ -8,7 +8,105 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "ocupacion": [
+    {
+      "id": 1,
+      "nombre": "Ama de casa"
+    },
+    {
+      "id": 2,
+      "nombre": "Estudiante"
+    },
+    {
+      "id": 3,
+      "nombre": "pintor"
+    },
+    {
+      "id": 4,
+      "nombre": "Latonero"
+    }
+
+  ],
+   "tipoDocumento": [
+    {
+      "id": 1,
+      "nombre": "Cedula"
+    },
+    {
+      "id": 2,
+      "nombre": "Tarjeta de Identidad"
+    },
+    {
+      "id": 3,
+      "nombre": "Pasaporte"
+    },
+    {
+      "id": 4,
+      "nombre": "Cédula de extranjería"
+    }
+  ] ,
+  "genero": [
+    {
+      "id": 1,
+      "nombre": "Masculino"
+    },
+    {
+      "id": 2,
+      "nombre": "Femenino"
+    },
+    {
+      "id": 3,
+      "nombre": "No definido"
+    }
+  ],
+  "findAllByBasePerson": [
+    {
+      "idPersona": 1,
+      "idPersonaDependiente": 2,
+      "idParentesco": 1,
+      "nombreParentesco": "conyugue",
+      "idOcupacion": 2,
+      "nombreOcupacion": "Estudiante",
+      "fechaRegistro": "Estudiante"  ,
+      "dependenciaEconomica": false,
+      "idTipoDocumento":1,
+      "numeroDocumento": "1098704",
+      "primerApellido": "Estudiante"  ,
+      "primerNombre": "Estudiante",
+      "segundoApellido": "Estudiante"  ,
+      "nombresAdicionales": "Estudiante",
+      "idGenero":1,
+      "telefono": "1098704",
+      "correoElectronico": "Estudiante"  ,
+      "fechaDesdeParentesco": "Estudiante",
+      "fechaHastaParentesco":"",
+      "archivo": null
+      },
+      {
+      "idPersona": 2,
+      "idPersonaDependiente": 2,
+      "idParentesco": 1,
+      "nombreParentesco": "conyugue",
+      "idOcupacion": 2,
+      "nombreOcupacion": "Estudiante",
+      "fechaRegistro": "Estudiante"  ,
+      "dependenciaEconomica": false,
+      "idTipoDocumento":1,
+      "numeroDocumento": "1098704",
+      "primerApellido": "Cardozo"  ,
+      "primerNombre": "Justino",
+      "segundoApellido": "Rengifo"  ,
+      "nombresAdicionales": "Alexander",
+      "idGenero":1,
+      "telefono": "1098704",
+      "correoElectronico": "Estudiante"  ,
+      "fechaDesdeParentesco": "Estudiante",
+      "fechaHastaParentesco":"",
+      "archivo": null
+      }    
+  ],
   "profile": {
     "name": "typicode"
   }
+  
 }
