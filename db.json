@@ -27,24 +27,6 @@
     }
 
   ],
-   "tipoDocumento": [
-    {
-      "id": 1,
-      "nombre": "Cedula"
-    },
-    {
-      "id": 2,
-      "nombre": "Tarjeta de Identidad"
-    },
-    {
-      "id": 3,
-      "nombre": "Pasaporte"
-    },
-    {
-      "id": 4,
-      "nombre": "Cédula de extranjería"
-    }
-  ] ,
   "genero": [
     {
       "id": 1,
@@ -104,9 +86,6 @@
       "fechaHastaParentesco":"",
       "archivo": null
       }    
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
   
 }
