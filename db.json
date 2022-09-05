@@ -10,5 +10,5 @@
   ], 
   "eventos": [
    {  "author_id": 0,"detail": {"description": "string","start_date": "2022-09-05","end_date": "2022-09-05","workgroup_id": 0,"parent_id": 0}
-  ]  
+  ]
 }
