@@ -40,52 +40,6 @@
       "id": 3,
       "nombre": "No definido"
     }
-  ],
-  "findAllByBasePerson": [
-    {
-      "idPersona": 1,
-      "idPersonaDependiente": 2,
-      "idParentesco": 1,
-      "nombreParentesco": "conyugue",
-      "idOcupacion": 2,
-      "nombreOcupacion": "Estudiante",
-      "fechaRegistro": "Estudiante"  ,
-      "dependenciaEconomica": false,
-      "idTipoDocumento":1,
-      "numeroDocumento": "1098704",
-      "primerApellido": "Estudiante"  ,
-      "primerNombre": "Estudiante",
-      "segundoApellido": "Estudiante"  ,
-      "nombresAdicionales": "Estudiante",
-      "idGenero":1,
-      "telefono": "1098704",
-      "correoElectronico": "Estudiante"  ,
-      "fechaDesdeParentesco": "Estudiante",
-      "fechaHastaParentesco":"",
-      "archivo": null
-      },
-      {
-      "idPersona": 2,
-      "idPersonaDependiente": 2,
-      "idParentesco": 1,
-      "nombreParentesco": "conyugue",
-      "idOcupacion": 2,
-      "nombreOcupacion": "Estudiante",
-      "fechaRegistro": "Estudiante"  ,
-      "dependenciaEconomica": false,
-      "idTipoDocumento":1,
-      "numeroDocumento": "1098704",
-      "primerApellido": "Cardozo"  ,
-      "primerNombre": "Justino",
-      "segundoApellido": "Rengifo"  ,
-      "nombresAdicionales": "Alexander",
-      "idGenero":1,
-      "telefono": "1098704",
-      "correoElectronico": "Estudiante"  ,
-      "fechaDesdeParentesco": "Estudiante",
-      "fechaHastaParentesco":"",
-      "archivo": null
-      }    
   ]
   
 }
